@@ -1,0 +1,53 @@
+body{
+margin: 0 auto;
+width: 100%;
+background-color: #F6F4EC; 
+}
+
+html{
+   font-size: 1em; 
+   margin: 1em;
+}
+
+h1,h2{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    padding: 0.5em;
+    margin: 1em;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+div{
+    border: 0.2em solid #9E936C;
+}
+
+div:hover{
+    background-color:#ede8ca ;
+}
+
+.love{
+    color: #9E936C;
+}
+
+h1{
+    padding-bottom: 0.5em;
+}
+
+h2{
+    padding-top: 0.5em;
+}
